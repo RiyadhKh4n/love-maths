@@ -127,3 +127,7 @@ function displayMultiplyQuestion(operand1, operand2) {
     document.getElementById('operator').textContent = "x";
 
 }
+
+function displayDivisionQuestion(operand1, operand2){
+    
+}
