@@ -113,8 +113,8 @@ body {
 
 .btn--big::after{
     content: attr(data-type);
-    font-size:1rem;
-    color:#445361;
+    font-size: 1rem;
+    color: #445361;
     position: relative;
     left: -0.5em;
 }
@@ -167,7 +167,7 @@ body {
     margin-top: 25px;
     background-color: #445361;
     border: 1px transparent;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .btn--gray:active,
